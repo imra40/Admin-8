@@ -1,0 +1,4 @@
+[30-Oct-2025 16:20:35 UTC] PHP Notice:  Undefined index: key_code in /home/princeaalyan/vip.aalyan.za.com/admin/keys.php on line 17
+[30-Oct-2025 16:20:36 UTC] PHP Notice:  Undefined index: key_code in /home/princeaalyan/vip.aalyan.za.com/admin/keys.php on line 17
+[30-Oct-2025 16:37:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/princeaalyan/vip.aalyan.za.com/admin/products.php on line 37
+[30-Oct-2025 18:23:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/princeaalyan/vip.aalyan.za.com/admin/products.php on line 73
